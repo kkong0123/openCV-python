@@ -1,4 +1,6 @@
+#   opencv python 코딩
 #   카메라 연결 코드
+
 import cv2
 
 # opencv python 코딩 기본 틀
